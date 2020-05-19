@@ -1,0 +1,1 @@
+and begin boolean break byte continue div do double xor else end false if integer longint mod not or repeat shl shortint shr single then true program var until while word xor
