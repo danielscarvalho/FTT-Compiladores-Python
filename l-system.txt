@@ -40,8 +40,8 @@ Análise
 
 Sínstese
 - Gerar image com base no string final
-    2D - SVG
-    3D - X3D
+    2D - SVG - https://www.w3schools.com/graphics/svg_intro.asp
+    3D - X3D - https://doc.x3dom.org/tutorials/basics/hello/index.html
 - Salvar arquivo texto, pode ser svg ou x3d em HTML
 
 Referencia:
