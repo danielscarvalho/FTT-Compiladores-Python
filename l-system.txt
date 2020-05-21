@@ -1,5 +1,9 @@
 Projeto: N1 1B
 
+Desafio: L-Systems
+
+Gramática da linguagem:
+
 Σ   ☞ Alfabeto da linguagem
 n   ☞ Passos, etapas
 ω   ☞ Axioma, condição inicial
@@ -44,3 +48,7 @@ Referencia:
 https://en.wikipedia.org/wiki/L-system
 http://www.algorithmicbotany.org/
 https://resources.wolframcloud.com/FunctionRepository/resources/LSystemPlot
+
+Vídeos:
+Coding Challenge #16: L-System Fractal Trees - https://www.youtube.com/watch?v=E1B4UoSQMFw
+8.5: L-Systems - The Nature of Code - https://www.youtube.com/watch?v=f6ra024-ASY&t=19s
