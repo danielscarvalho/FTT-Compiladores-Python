@@ -1,6 +1,15 @@
+Projeto: N1 1B
+
+Σ   ☞ Alfabeto da linguagem
+n   ☞ Passos, etapas
+ω   ☞ Axioma, condição inicial
+δ   ☞ Angulo
+pX  ☞ Regras de produção
+
 Σ : L, R, F, +, -
 n : 2
 ω : L
+δ : 90º
 p1 : L → +RF − LF L − F R+
 p2 : R → −LF + RF R + F L−
 
@@ -9,6 +18,7 @@ p2 : R → −LF + RF R + F L−
 Σ : F, +, -
 n : 3
 ω : F-F-F-F
+δ : 90º
 p1 : F → +FF
 
 0: F-F-F-F
@@ -20,12 +30,14 @@ p1 : F → +FF
 Projeto:
 
 Análise
-- Definir uma gramática
+- Definir uma gramática em arquivo texto
 - Ler arquivo com a definição da gramática
-- Aplicar as regras de produção -> Gerar o string final
+- Aplicar as regras de produção → Gerar o string final
 
 Sínstese
-- Gerar image
+- Gerar image com base no string final
     2D - SVG
     3D - X3D
-- Salvar arquivo
+- Salvar arquivo texto, pode ser svg ou x3d em HTML
+
+Referencia:
