@@ -1,0 +1,31 @@
+Σ : L, R, F, +, -
+n : 2
+ω : L
+p1 : L → +RF − LF L − F R+
+p2 : R → −LF + RF R + F L−
+
+--------------------------------------------
+
+Σ : F, +, -
+n : 3
+ω : F-F-F-F
+p1 : F → +FF
+
+0: F-F-F-F
+1: +FF-+FF-+FF-+FF
+2: ++FF+FF-++FF+FF-++FF+FF-++FF+FF
+3: +++FF+FF++FF+FF-+++FF+FF++FF+FF-+++FF+FF++FF+FF-+++FF+FF++FF+FF
+
+---------------------
+Projeto:
+
+Análise
+- Definir uma gramática
+- Ler arquivo com a definição da gramática
+- Aplicar as regras de produção -> Gerar o string final
+
+Sínstese
+- Gerar image
+    2D - SVG
+    3D - X3D
+- Salvar arquivo

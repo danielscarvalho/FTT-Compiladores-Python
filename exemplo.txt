@@ -1,0 +1,24 @@
+if, keyword
+FileExists, keyword
+(, open-pareteses
+FileName, variable
+), close-pareten
+then, keyword
+begin, keyword
+S, variable
+:=, operation
+TStringList, variable
+., operation
+Create, method.. (unknow)
+S, variable
+., operator
+LoadFromFile, keyword
+(, open-pareteses
+FileName, keyword
+), close-pareteses
+;, pontuation
+[, open-brackets
+], close-brackets
++, operation
+**, operation
+^, operation

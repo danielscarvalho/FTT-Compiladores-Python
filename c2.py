@@ -12,7 +12,7 @@ with open("p1.pas","r") as pkeys:
 lexemas=[]
 
 integerPattern =  r"^[0-9]$"
-floatPattern =  r"^[0-9].[0-9]$"
+floatPattern =  r"^[0-9].[0-9]$" 
 
 for token in pascal_code:
     if token in pascal_keys:
