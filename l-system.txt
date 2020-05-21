@@ -32,7 +32,7 @@ Projeto:
 Análise
 - Definir uma gramática em arquivo texto
 - Ler arquivo com a definição da gramática
-- Aplicar as regras de produção → Gerar o string final
+- Aplicar as regras de produção, recursivamente → Gerar o string final
 
 Sínstese
 - Gerar image com base no string final
@@ -41,3 +41,6 @@ Sínstese
 - Salvar arquivo texto, pode ser svg ou x3d em HTML
 
 Referencia:
+https://en.wikipedia.org/wiki/L-system
+http://www.algorithmicbotany.org/
+https://resources.wolframcloud.com/FunctionRepository/resources/LSystemPlot
