@@ -1,6 +1,7 @@
 Projeto: N1 2B
 
 Desafio: L-Systems
+Codificação em Java ou Python
 
 Gramática da linguagem:
 
