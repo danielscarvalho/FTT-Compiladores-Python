@@ -50,6 +50,7 @@ Referencia:
 https://en.wikipedia.org/wiki/L-system
 http://www.algorithmicbotany.org/
 https://resources.wolframcloud.com/FunctionRepository/resources/LSystemPlot
+http://algorithmicbotany.org/papers/abop/abop.pdf
 
 Vídeos:
 Coding Challenge #16: L-System Fractal Trees - https://www.youtube.com/watch?v=E1B4UoSQMFw
