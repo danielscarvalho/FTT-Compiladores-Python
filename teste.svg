@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first SVG</h1>
+
+<svg width="800" height="600">
+      
+<circle cx="100" cy="10" r="50" stroke="black" stroke-width="10" fill="green" />
+ 
+<circle cx="100" cy="100" r="40" stroke="red" stroke-width="4" fill="#00FFFF" />
+   
+<circle cx="160" cy="160" r="40" stroke="GREY" stroke-width="4" fill="#ff00FF" />
+
+  <rect x="10" y="120" width="90" height="60" stroke="RED" fill="#101010" stroke-width="4"/>
+
+<line x1="50" y1="50" x2="150" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <line x1="150" y1="200" x2="10" y2="200" style="stroke:rgb(0,0,255);stroke-width:2" />
+    <line x1="10" y1="200" x2="0" y2="0" style="stroke:rgb(0,255,0);stroke-width:2" />
+    <line x1="0" y1="0" x2="400" y2="600" style="stroke:rgb(100,100,44);stroke-width:2" />
+    
+<path d="M250 100 L275 200 L325 300 Z" fill="yellow"/>
+
+<polyline points="0 0 0 100 100 100 40 25 60 40 80 120 120 140 200 180" style="fill:none;stroke:black;stroke-width:3" />
+
+<text x="200" y="150" fill="red">L-Systems</text>
+
+   Sorry, your browser does not support inline SVG.
+</svg> 
+ 
+</body>
+</html>
