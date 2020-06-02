@@ -1,20 +1,12 @@
-function getfile(const FileName: string): Boolean;
+program exLocal; 
 var
-  S: TStringList;
-  i: Integer;
+   a, b, c: integer;
+
 begin
-  Result:= False;
-  if FileExists(FileName) then begin
-    S:= TStringList.Create;
-    S.LoadFromFile(FileName);
-    FScr.Script:= S;
-    Result:= FScr.Compile;
-    for i:= 0 to aPSCE.FScr.CompilerMessageCount - 1 do
-      writeln(aPSCE.FScr.CompilerMessages[i].MessageToString);
-    S.Free;
-    if not Result then
-      if FScr.CompilerMessageCount > 0 then
-        for i:= 0 to FScr.CompilerMessageCount-1 do
-          Writeln(FScr.CompilerErrorToStr(i));
-      end else Writeln('Script File not found: ', FileName);
-end;
+   (* actual initialization *)
+   a := 10;
+   b := 20;
+   c := a + b;
+   
+   writeln('value of a = ', a , ' b =  ',  b, ' and c = ', c);
+end.
