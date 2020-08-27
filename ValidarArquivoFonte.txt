@@ -1,0 +1,15 @@
+Linguagem aceita - alfabeto da linguagem: <{[(  )]}>
+
+[](){}         - OK - Válido
+[)]{}          - Não - Inválido
+[(]){}<>       - Não - Inválido
+(((((([])))))) - OK - Válido
+{{[[()]()]}}   - OK - Válido
+{[[([)]]]}     - Não - Inválido
+<{(())}> - OK  - Válido
+{<[]()[[]]<>>} - OK - Válido
+
+Parser! - Analisador Sintático - Automato com pilha
+
+Java ou Python
+
