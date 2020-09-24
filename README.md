@@ -1,6 +1,6 @@
 # FTT-Compiladores-Python
 
-## Minicurso de Python 😁
+## Minicurso de Python &#x1F40D; 😁
 
 Minicurso de Python com MS Visual Studio Code para alunos de Engenharia de Computação &#x1F9E0;	
 
