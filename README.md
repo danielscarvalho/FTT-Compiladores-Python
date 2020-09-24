@@ -4,7 +4,7 @@
 
 Minicurso de Python com MS Visual Studio Code
 <hr>
-Referências:
+Referências &#x1F4A5;:
 
 - https://www.python.org/
 - https://books.goalkicker.com/PythonBook/
