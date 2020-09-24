@@ -13,4 +13,4 @@ Referências:
 
 ![Python Logo](https://codehangar.io/content/images/2015/10/python.png)
 
-<div style="font-size:150px!important;">&#x1F916;!!</div>
+<div style="size:150px;font-size:150px!important;">&#x1F916;!!</div>
