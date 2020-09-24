@@ -2,8 +2,10 @@
 
 ## Minicurso de Python 😁
 
-Minicurso de Python com MS Visual Studio Code
+Minicurso de Python com MS Visual Studio Code para alunos de Engenharia de Computação &#x1F9E0;	
+
 <hr>
+
 Referências &#x1F4A5;:
 
 - https://www.python.org/
