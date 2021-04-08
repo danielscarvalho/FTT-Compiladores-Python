@@ -1,0 +1,11 @@
+ω : F + F + F + F (condição inicial)
+p : F → F + F − F − F F + F + F − F (regra de produção)
+n : 1 (passo)
+
+Passos:
+
+0 > F + F + F + F
+
+1 > F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F
+
+2 > F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F − F + F − F − F F + F + F − F F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F − F + F − F − F F + F + F − F F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F − F + F − F − F F + F + F − F F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F − F + F − F − F F + F + F − F F + F − F − F F + F + F − F + F + F − F − F F + F + F − F + F + F − F − F F + F + F − F − F + F − F − F F + F + F − F
