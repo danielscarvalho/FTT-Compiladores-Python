@@ -1,7 +1,7 @@
 Projeto: N1 2B
 
 Desafio: L-Systems
-Codificação em Java, JavaScript ou Python
+Codificação em Java
 
 Gramática da linguagem:
 
